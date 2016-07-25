@@ -1,0 +1,55 @@
+To do
+
+Question Set 1:
+	
+	Train Game Solver
+		- incomplete
+		- need to figure out method of attack
+	Factorial FUNction
+		- finished
+		- needs further testing for larger numbers
+	Count My Age
+		- finished
+		- add leaplings
+
+Question Set 2:
+
+	TIC-TAC-TOE
+		- finished basic
+		- AI implementation and strategies
+		- difficulty levels of AI
+	Group Sorter
+		- incomplete
+		- figure out how to scan in names appropriately
+	eman sdrawkcaB
+		- finished
+		- jumbling function needs work
+
+Question Set 3:
+
+	2048
+		- basic functionality has been achieved
+
+		- needs to work for 2 nums combining (done)
+		- improve interface (done)
+		- needs to detect game over (done)
+		- integrate 4 tiles in newTiles (done)
+		- clear previous board after turn (done)
+		- has trouble with multiple mergers (done)
+		
+		- some bugs still exist but mostly working	
+
+	Sieve of Eratosthenes
+		- finished but needs work
+		- needs optimisation, slows for n > 25 000
+
+Question Set 4 (NEW!!):
+
+	Pokemon Battle 
+
+	Peas in a Pod
+
+	Contact List
+
+Notes:
+	- srand needs to be in main function
